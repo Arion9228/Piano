@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-!(https://github.com/Arion9228/Piano/blob/main/Piano%20Screenshot.png?raw=true)
+![Piano](https://github.com/Arion9228/Piano/blob/main/Piano%20Screenshot.png?raw=true)
 
 ## Available Scripts
 
